@@ -1,6 +1,2 @@
-/*
-Write a script that creates the database hbtn_0c_0 in your MySQL server.
-If the database hbtn_0c_0 already exists, your script should not fail
-You are not allowed to use the SELECT or SHOW statements
-*/
+--  creates the database hbtn_0c_0 in your MySQL server.
 CREATE DATABASE IF NO EXISTS `hbtn_0c_0`;
