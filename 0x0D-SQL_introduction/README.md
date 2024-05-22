@@ -1,6 +1,8 @@
 0x0D. SQL - Introduction
 
-what we will cover in this SQL:
+
+
+General
 1. What’s a database
 2. What’s a relational database
 3. What does SQL stand for
@@ -11,4 +13,4 @@ what we will cover in this SQL:
 8. How to SELECT data from a table
 9. How to INSERT, UPDATE or DELETE data
 10. What are subqueries
-11. How to use MySQL functions
+11.  How to use MySQL functions
